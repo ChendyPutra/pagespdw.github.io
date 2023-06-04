@@ -1,0 +1,49 @@
+body{
+background-color:white;}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 11px;
+}
+.greeting {
+    font-weight: bold;
+    margin-right: 0;
+    color: black;
+}
+
+.date {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: black;
+}
+
+.time {
+    font-weight: bold;
+    text-align: right;
+    margin-right: 50px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+p{
+    color: black;
+}
+
+.card{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+p{
+    padding-left: 11px;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
